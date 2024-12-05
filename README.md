@@ -15,7 +15,7 @@
 
 ## Technologies Used
 - Android Studio and JDK 17.0.1
-- SQLite Database
+- Sql , Xml
 - ## Features
 ### Home
 - The homescreen of the app has 4 tabs "Study Plans", "Assignments", "Exams", and "Lectures"

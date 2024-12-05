@@ -48,17 +48,10 @@
 ### Side Navigation Drawer
 - Student can use the side navigation drawer to switch between the aforementioned Home and Calendar screens
 
-## Screenshots
-### Home Screen:
-![Home Screen](./Screenshots/Home_StudyPlan.png)
-### Add Event:
-![Add Event](./Screenshots/AddEvent.png)
-### Edit Event:
-![Edit Event](./Screenshots/EditEvent.png)
-### Side Navigation Drawer:
-![Side Navigation Drawer](./Screenshots/SideNavigationDrawer.png)
-### Calendar:
-![Calendar](./Screenshots/Calendar.png)
 
 
+![Screenshot 2024-12-05 184927](https://github.com/user-attachments/assets/c85aa808-8cd5-4934-998c-de20e94e7800)
 
+![Screenshot 2024-12-05 184940](https://github.com/user-attachments/assets/7eeb260b-8a40-495d-a58a-323236826fb4)
+![Screenshot 2024-12-05 184913](https://github.com/user-attachments/assets/c73b4d52-ca8e-4927-b347-65119c80e8bf)
+![Screenshot 2024-12-05 184824](https://github.com/user-attachments/assets/6a1a0c49-4b71-4132-940a-5b8de091b4f0)
